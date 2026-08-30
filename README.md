@@ -1,7 +1,7 @@
 # 💫 About Me:
-Professional Summary
-Senior Full-Stack Engineer | MSc Computer Science, University of Bath
-4 years of full-stack engineering experience across fintech and enterprise SaaS in India and the UK. Served as Founding Engineer in London, architecting cloud-native AWS infrastructure from scratch and leading a cross-functional team of 8. Previously delivered regulated KYC/AML fintech solutions at Signzy and enterprise AI/NLP products at AccernAI, working with clients including UniCredit, Mizuho Bank, and Interactive Brokers. Deep expertise in Node.js, TypeScript, React, Next.js and AWS with a strong track record in performance engineering, scalable system design, test quality and known for fast decision-making in ambiguous environments and a high drive for continuous learning. Actively seeking a Senior or Founding Engineer role at a high-growth UK startup in SaaS, DevTools, or AI.
+
+Senior Full-Stack Engineer | MSc Computer Science, University of Bath<br>
+Proven 4 years of full-stack engineering experience across fintech and enterprise SaaS in India and the UK. Served as Founding Engineer in London, architecting cloud-native AWS infrastructure from scratch and leading a cross-functional team of 8. Previously delivered regulated KYC/AML fintech solutions at Signzy and enterprise AI/NLP products at AccernAI, working with clients including UniCredit, Mizuho Bank, and Interactive Brokers. Deep expertise in Node.js, TypeScript, React, Next.js and AWS with a strong track record in performance engineering, scalable system design, test quality and known for fast decision-making in ambiguous environments and a high drive for continuous learning. Actively seeking a Senior or Founding Engineer role at a high-growth UK startup in SaaS, DevTools, or AI.
 
 
 ## 🌐 Socials:
